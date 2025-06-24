@@ -1,7 +1,8 @@
 # Business Voice Agent - Backend
 
-**Live Example:** [AI Agent Dave](https://agent-dave.pla.sh)
-**Frontend Repository:** [business_voice_agent_frontend](https://github.com/digispect-intel/business_voice_agent_frontend)
+- **Live Example:** [AI Agent Dave](https://agent-dave.pla.sh)
+- **Frontend Repository:** [business_voice_agent_frontend](https://github.com/digispect-intel/business_voice_agent_frontend)
+- **Interest Form** [Share your interest by completing this form](https://forms.digispectintelligence.solutions/r4RzLd)
 
 A voice-enabled AI assistant backend for David McGrath's business website (digispectintelligence.com). This backend powers Agent Dave, providing real-time voice interaction capabilities using Restack AI.
 
@@ -37,7 +38,7 @@ Agent Dave is designed to assist visitors of Digispect Intelligence by providing
    - Obtain an API key and add to `DEEPGRAM_API_KEY` in `.env.local` file
 
    ### ElevenLabs Setup
-   - Sign up at [ElevenLabs](https://elevenlabs.io)
+   - Sign up at [ElevenLabs](https://try.elevenlabs.io/business_voice_agent)
    - Add `ELEVEN_API_KEY` and `ELEVENLABS_VOICE_ID`to `.env.local` file
 
    ### OpenAI Setup
